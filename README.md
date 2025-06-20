@@ -68,8 +68,10 @@ I built this as a Capstone-style portfolio project that:
 - Combines real certification structure with hands-on Python
 - Highlights key IT domains I've studied and have certifications for, among others I'm proficient in but don't have a certification to show for it, yet, including:
   - **CompTIA A+**
+  - **CompTIA Network+**
+  - **CompTIA Security+**
   - **Google Data Analytics**
-  - **Codecademy Python, SQL, and R certificates**
+  - **Codecademy Python, SQL, R, Neural Network, customising and building local network GPTs certificates**
 
 ---
 
