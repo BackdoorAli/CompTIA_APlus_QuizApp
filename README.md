@@ -66,7 +66,7 @@ This app could be used internally by educators or institutions for structuring p
 
 I built this as a Capstone-style portfolio project that:
 - Combines real certification structure with hands-on Python
-- Highlights key IT domains I've studied and have certifications for, among other I'm proficient in but don't have a certification to show for it, yet, including:
+- Highlights key IT domains I've studied and have certifications for, among others I'm proficient in but don't have a certification to show for it, yet, including:
   - **CompTIA A+**
   - **Google Data Analytics**
   - **Codecademy Python, SQL, and R certificates**
