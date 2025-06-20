@@ -71,7 +71,7 @@ I built this as a Capstone-style portfolio project that:
   - **CompTIA Network+**
   - **CompTIA Security+**
   - **Google Data Analytics**
-  - **Codecademy Python, SQL, R, Neural Network, customising and building local network GPTs certificates**
+  - **Codecademy Python, SQL, R, Neural Networks, customising and building local network GPTs certificates**
 
 ---
 
