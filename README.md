@@ -19,6 +19,7 @@ This Python quiz application was built as a portfolio project to demonstrate han
 
 - Terminal + GUI modes
 - Select between **Core 1** and **Core 2**
+- 250 different questions for each of the Core modules
 - Category-based filtering (e.g., Networking, Hardware, Security)
 - Difficulty levels: Beginner, Intermediate, Advanced
 - Real-time feedback with explanations
