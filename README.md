@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
 
 **Created by (https://github.com/BackdoorAli)**  
-⚠️ **This project is for educational and portfolio purposes only.**
+**This project is for educational and portfolio purposes only.**
 
 ---
 
