@@ -11,7 +11,7 @@
 
 ## Description
 
-This Python quiz application was built as a portfolio project to demonstrate hands-on programming skills, especially in the context of IT certification preparation. While the structure and logic mirror what an actual CompTIA A+ certification quiz would be like, **the questions used in this version are not real exam questions** due to copyright restrictions. They are **sample placeholders** that can be swapped out with official content by authorized parties if needed.
+This Python quiz application was built as a portfolio project to demonstrate hands-on programming skills, especially in the context of IT certification preparation. While the structure and logic mirror what an actual CompTIA A+ certification quiz would be like, **the questions used in this version are not real exam questions** due to copyright restrictions. They are **sample placeholders** that can be swapped out with official content by authorised parties if needed.
 
 ---
 
