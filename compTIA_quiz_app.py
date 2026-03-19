@@ -57,10 +57,10 @@ def run_quiz(questions):
             answer = input("Please enter a number between 1 and 4: ")
         selected = choices[int(answer) - 1]
         if selected == q['answer']:
-            print("✅ Correct!\n")
+            print("Correct!\n")
             score += 1
         else:
-            print(f"❌ Incorrect. The correct answer was: {q['answer']}")
+            print(f"Incorrect. The correct answer was: {q['answer']}")
             if 'explanation' in q:
                 print(f"Explanation: {q['explanation']}\n")
 
@@ -119,10 +119,10 @@ def launch_gui_quiz(questions):
             selected = self.var.get()
             if selected == q['answer']:
                 self.score += 1
-                messagebox.showinfo("Correct", "✅ Correct!")
+                messagebox.showinfo("Correct", "Correct!")
             else:
                 explanation = q.get('explanation', 'No explanation provided.')
-                messagebox.showinfo("Incorrect", f"❌ Incorrect.\nCorrect Answer: {q['answer']}\nExplanation: {explanation}")
+                messagebox.showinfo("Incorrect", f"Incorrect.\nCorrect Answer: {q['answer']}\nExplanation: {explanation}")
             self.index += 1
             self.display_question()
 
